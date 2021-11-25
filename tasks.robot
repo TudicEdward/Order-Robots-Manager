@@ -10,7 +10,7 @@ Library    RPA.Tables
 Library    RPA.PDF
 Library    RPA.Archive
 Library    RPA.Dialogs
-Library    RPA.Robocloud.Vault
+Library    RPA.Robocorp.Vault
 
 *** Keywords ***
 Open the robot order website
